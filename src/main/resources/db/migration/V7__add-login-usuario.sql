@@ -1,0 +1,1 @@
+insert into usuarios values(1, 'caio@gmail.com', '$2a$12$5sEQ4bD5fhj9M9zE9zRGAe7TWb.rFfeGHJZL82xqZBemhqHZNzkhS');
